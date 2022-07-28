@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Check936": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Working\\colmap-vs\\FreeImage\\Wrapper\\FreeImagePlus\\FreeImagePlus.h"
+    }
+  }
+}
